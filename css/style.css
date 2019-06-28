@@ -1,16 +1,16 @@
 
 .header {
-color: red;
-text-align: center;
-background-image: url("images/frostskater.png");
-background-repeat: no-repeat;
-background-position: center;
+	color: red;
+	text-align: center;
+	background-image: url("images/frostskater.png");
+	background-repeat: no-repeat;
+	background-position: center;
 }
 
 p {
-color: black;
-font-size: 18px;
-font-size: 18px;
+	color: black;
+	font-size: 18px;
+	font-size: 18px;
 }
 
 table {
