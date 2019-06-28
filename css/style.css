@@ -2,16 +2,14 @@
 .header {
 	color: red;
 	text-align: center;
-	background-image: url("images/untitled.jpg");
+	background-image: url("untitled.jpg");
 	background-repeat: ;
 	background-position: center;
 	padding: 10px;
 	font-size: 40px;
 }
 
-table {
-	color: orange;
-}
+
 
 body {
 	background-image: url{"images/untitled.jpg");
