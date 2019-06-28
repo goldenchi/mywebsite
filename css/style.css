@@ -2,7 +2,7 @@
 .header {
 	color: red;
 	text-align: center;
-	
+	background-image: url("images/untitled.png");
 	background-repeat: no-repeat;
 	background-position: center;
 }
